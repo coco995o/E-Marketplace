@@ -1,0 +1,184 @@
+
+.navbar-nav {
+  color: white;
+  text-align: center;
+  float: none;
+  padding: 0.5rem;
+  margin: 0 35%;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 18px;
+}
+.heading{
+  background-color: red;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+/* Carousel */
+
+#mycarousel{
+  text-align: center;
+  height: 35rem;
+  /* background-image: url("images/Screenshot123.jpg"); */
+  background-image: url("images/shopping12.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center
+  font-family: "Ubuntu";
+  font-weight: bold;
+  color: #8B2635;
+}
+#carouselExampleIndicators{
+  padding: 10% 15%;
+  margin: 0 15%;
+}
+/* .carousel-control-prev{
+  filter: invert(1);
+}
+.carousel-control-next{
+  filter: invert(1);
+} */
+.carousel-item h3{
+  font-size: 60px;
+  font-weight: 800;
+}
+.carousel-item p{
+  font-size: 30px;
+  font-weight: 700;
+}
+.row1{
+  text-align: center;
+}
+.men-button{
+  margin: 3% 3%;
+  font-family: "Kanit"
+}
+.button{
+  width: 170px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.button a{
+  width: 100%;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: 900;
+  float: left;
+  font-family: "Open Sans";
+  text-decoration: none;
+}
+.button a:hover{
+  background-color: #F15412;
+  transition: 0.3s;
+}
+
+/* CARDS */
+
+.shoes{
+  padding-bottom: 5%
+}
+
+.card{
+  margin: 2% 3%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card-image{
+  text-align: center;
+  width: 300px;
+  padding: 10% 0%;
+}
+.card-header{
+  border: none;
+}
+.card-body{
+  text-align: center;
+  font-family: "Poppins";
+  border: 0;
+}
+.card-button{
+  color: orange;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10% 0%;
+}
+.for-women{
+  padding: 5% 5%;
+  text-align: center;
+}
+/* Footer */
+.footer{
+  background-color: black;
+  height: 320px;
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+.footer-div{
+  color: white;
+  text-align: center;
+  font-weight: 700;
+}
+.footer-div h3{
+  padding: 15px;
+}
+.form{
+  text-align: center;
+  font-weight: 700;
+  padding: 10px
+}
+.fa-brands{
+  font-size: 40px;
+  padding: 1% 1%;
+}
+.links1{
+  padding: 10px 10px;
+  font-weight: 700;
+}
+.flex-parent-element{
+  display: flex;
+  width: 100%;
+}
+.flex-child-element{
+  flex: 1;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.flex-child-element:first-child{
+}
+.container2{
+  padding: 0% 20%;
+}
+.button-collapse{
+  width: 150px;
+  padding: 5px;
+
+}
+.button-collapse a{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.english-button{
+  background-color: orange;
+  color: white;
+  border-radius: 10%;
+  padding: 5%;
+  margin-left: 5%;
+}
+.english-flag{
+  height: 25px;
+}
+.french-flag{
+  height: 25px;
+}
+.cart-button{
+  color: red;
+}
+.find-button{
+  margin-left: -2%;
+}
